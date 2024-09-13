@@ -4,40 +4,34 @@
 ## 👨‍💻 팀원 소개
 | 이름 | 역할 | GitHub |
 |:---:|:---:|:---:|
-| 박정현 | 백엔드 개발자 | [![GitHub](https://img.shields.io/badge/GitHub-박정현-181717?style=for-the-badge&logo=github)](https://github.com/hinoky4693) |
-| 서민수 | 백엔드 개발자 | [![GitHub](https://img.shields.io/badge/GitHub-서민수-181717?style=for-the-badge&logo=github)](https://github.com/TocDX) |
-| 원성진 | 백엔드 개발자 | [![GitHub](https://img.shields.io/badge/GitHub-원성진-181717?style=for-the-badge&logo=github)](https://github.com/wonsungjin) |
-| 이원혁 | 백엔드 개발자 | [![GitHub](https://img.shields.io/badge/GitHub-이원혁-181717?style=for-the-badge&logo=github)](https://github.com/Won-Hyuk-Lee) |
+| 팀원 : 박정현 | 고객 및 직원 서비스 담당 | [![GitHub](https://img.shields.io/badge/GitHub-박정현-181717?style=for-the-badge&logo=github)](https://github.com/hinoky4693) |
+| 팀원 : 서민수 | 유저 서비스 담당 | [![GitHub](https://img.shields.io/badge/GitHub-서민수-181717?style=for-the-badge&logo=github)](https://github.com/TocDX) |
+| 팀원 : 원성진 | config 및 gateway 담당 | [![GitHub](https://img.shields.io/badge/GitHub-원성진-181717?style=for-the-badge&logo=github)](https://github.com/wonsungjin) |
+| 팀장 : 이원혁 | 심부름 서비스 담당 | [![GitHub](https://img.shields.io/badge/GitHub-이원혁-181717?style=for-the-badge&logo=github)](https://github.com/Won-Hyuk-Lee) |
 
-## 🛠 기술 스택
+## 🛠 사용된 기술 스택
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Cloud Gateway](https://img.shields.io/badge/Spring_Cloud_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-FF5733?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Eureka](https://img.shields.io/badge/AWS_Eureka-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🏆 프로젝트
-현재 진행 중인 프로젝트와 완료된 프로젝트들을 소개합니다.
-1. **프로젝트 A**: 간단한 설명
-2. **프로젝트 B**: 간단한 설명
-3. **프로젝트 C**: 간단한 설명
+1. 심부름 대행 서비스 도와드림 - DowaDream - KOSTA 275기 프로젝트 우수상 수상
+
+## 프로젝트 개요
+1인가구의 증가와 근무시간의 증가로 인해 집안일 같은 작고 사소한 일에도 도움이 필요한 사람들이 증가해서
+심부름 서비스를 제공하는 플랫폼을 제작하였습니다.
 
 ## 📈 팀 목표
-- 최신 백엔드 기술 습득 및 적용
-- 효율적인 협업 문화 구축
-- 고품질의 안정적인 서비스 개발
-
-## 📞 연락처
-문의사항이나 협업 제안은 언제든 환영합니다!
-📧 Email: [팀 이메일 주소]
+- MSA 경험하기
+- REACT 사용하기
+- JPA 사용하기
+- AWS 사용하기
 
 ---
 ⭐️ KOSTA 275기 백엔드 개발자 팀의 여정을 함께 지켜봐 주세요! ⭐️
